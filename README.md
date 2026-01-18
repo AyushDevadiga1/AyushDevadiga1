@@ -1,6 +1,6 @@
 
 <div align="center">
 
-<img src="./download.gif"  width="100%"  alt="Roronoa Zoro">
+<img src="./source-gif\opzoroWANO.gif"  width="100%"  alt="Roronoa Zoro">
 
 </div>
