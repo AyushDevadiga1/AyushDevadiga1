@@ -1,16 +1,23 @@
-## Hi there 👋
+# ⚡ [SYSTEM_OVERRIDE]: Initializing Profile...
 
-<!--
-**AyushDevadiga1/AyushDevadiga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com" width="100%">
+</p>
 
-Here are some ideas to get you started:
+### 📟 STATUS: RUNNING_SCRIPTS
+[![Typing SVG](https://readme-typing-svg.herokuapp.com)](https://git.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 TECH_STACK
+`[████████████░░░░]` 75% JavaScript  
+`[████████░░░░░░░░]` 50% Python  
+`[██████████████░░]` 90% Neon_CSS
+
+---
+
+### 📡 CONNECT_WITH_ME
+[![](https://img.shields.io)](https://twitter.com)
+[![](https://img.shields.io)](https://linkedin.com)
+
+> "The future is already here — it's just not very evenly distributed."
