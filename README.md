@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./source-gif/incursio.gif" width="100%" alt="Tatsumi" >
+  <img src="./source-gif/squirtle_eating.gif" width="100%" alt="Tatsumi" >
 </div>
