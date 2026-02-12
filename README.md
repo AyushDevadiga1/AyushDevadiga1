@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./source-gif/squirtle_eating.gif" width="100%" alt="Squirtel..." >
+  <img src="./source-gif/shop.jpg" width="100%" alt="Nature..." >
 </div>
