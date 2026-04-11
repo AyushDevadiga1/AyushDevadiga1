@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="geometric.svg"  width="100%" height="100%" alt="image">
+  <img src="geometric.svg"  width="280" height="280" alt="image">
 </div>
