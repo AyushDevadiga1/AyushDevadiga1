@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="source-gif\sukuna_domain.gif"  width="100%" height="100%" alt="image">
+  <img src="source-gif\sukuna_domain.gif" alt="image">
 </div>
